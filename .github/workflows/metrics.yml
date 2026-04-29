@@ -1,10 +1,12 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Mise à jour chaque nuit
-  workflow_dispatch: # Pour tester manuellement
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -12,6 +14,7 @@ jobs:
           filename: metrics.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
