@@ -147,6 +147,9 @@ O(N log N) Collision Detection
 
 ## 🤖 AI Mastery & Tooling
 
+<details>
+<summary><b>Click to expand AI</b></summary>
+
 ### Claude AI
 **Advanced Prompt Engineering & Agentic Systems**
 
@@ -174,9 +177,12 @@ O(N log N) Collision Detection
 - Building personal knowledge bases with audio
 
 ---
+</details>
+
+## 🚀 What Drives Me
 
 <details>
-<summary><b>🚀 What Drives Me</b></summary>
+<summary><b>Click to expand interests</b></summary>
 
 ---
 
@@ -219,7 +225,7 @@ Exploring decentralized systems, DeFi protocols, and blockchain technologies. In
 - **Mentorship** opportunities & code reviews
 - **Architecture discussions** & design patterns
 
-**Contact:** [quentin.hoarau193@gmail.com](mailto:quentin.hoarau193@gmail.com) | 🐙 [@quentinhoarau](https://github.com/quentinhoarau)
+**Contact:** [quentin.hoarau193@gmail.com](mailto:quentin.hoarau193@gmail.com)
 
 **Let's build something extraordinary together! 🚀**
 
