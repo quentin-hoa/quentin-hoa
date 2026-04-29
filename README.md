@@ -146,6 +146,7 @@ O(N log N) Collision Detection
 ---
 
 ## 🤖 AI Mastery & Tooling
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 <details>
 <summary><b>Click to expand AI</b></summary>
