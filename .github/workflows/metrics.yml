@@ -17,5 +17,12 @@ jobs:
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # Ajoute cette ligne pour forcer la prise en compte des dépôts privés
-          config_display: large
+
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.halfyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
