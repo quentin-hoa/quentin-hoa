@@ -8,6 +8,9 @@
 
 ---
 
+## 📅 Activity Heatmap
+![Calendrier Isométrique](./metrics.isocalendar.fullyear.svg)
+
 ## 📍 Location & Profile
 
 | Field | Details |
