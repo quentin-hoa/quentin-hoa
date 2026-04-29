@@ -9,7 +9,7 @@
 ---
 
 ## 📅 Activity Heatmap
-![Calendar](./metrics.isocalendar.halfyear.svg)
+![Calendar](./metrics.isocalendar.fullyear.svg)
 
 ## 📍 Location & Profile
 
