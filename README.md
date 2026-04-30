@@ -154,7 +154,7 @@ O(N log N) Collision Detection
 ### Claude AI
 **Advanced Prompt Engineering & Agentic Systems**
 
-- Complex multi-turn reasoning chains & few-shot patterns
+- Building reliable logic chains and adaptive prompts
 - Agentic workflows & tool orchestration  
 - CLAUDE.md systems & documentation frameworks
 - Sub-agent design & task delegation patterns
