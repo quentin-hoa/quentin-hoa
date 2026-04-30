@@ -210,7 +210,7 @@ Exploring decentralized systems, DeFi protocols, and blockchain technologies. In
 
 | Achievement | Details |
 |-------------|---------|
-| ⚙️ **Algorithm Mastery** | Multi-path extraction, DP tabulation (single-pass dynamic programming using min of 3 neighbors), quadtree indexing. Real-world complexity reduction. |
+| ⚙️ **Algorithm Mastery** | Optimized pathfinding using DP tabulation and Quadtree indexing to reduce computational complexity in real-time environments. |
 | 🤖 **AI Expertise** | Advanced prompt engineering, agentic workflows, system orchestration at scale with Claude, Gemini, & NotebookLM. |
 | 🎮 **Real-Time Graphics** | CSFML rendering, 60 FPS performance, spatial data structures for collision detection. |
 | 📊 **Performance Optimization** | 10K×10K grids in milliseconds, 1000+ entities real-time, O(N log N) algorithms. |
