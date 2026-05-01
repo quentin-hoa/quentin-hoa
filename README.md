@@ -187,20 +187,25 @@ O(N log N) Collision Detection
 
 ---
 
-### 🤖 AI & Automation
-Building intelligent systems that amplify human capabilities. Claude has fundamentally changed my problem-solving approach—structured prompts and agentic workflows are now foundational to my process.
+### 🛠️ Technical Workflow
+I use advanced prompting and structured workflows to accelerate development and problem-solving. By integrating tools like Claude into my process, I focus on building reliable systems and automating repetitive tasks to maintain high productivity.
 
-**Impact:** Automating complexity, solving problems faster, enabling scale.
+**Impact**: Faster iteration cycles and more robust code logic.
 
-### 💻 System Design
-Obsessed with elegant algorithms and scalable architectures. From BFS pathfinding to quadtree spatial indexing, I'm fascinated by solutions that work efficiently at scale.
+### 💻 System Engineering
+I enjoy solving performance challenges through efficient algorithms and data structures. My work involves implementing spatial indexing like Quadtrees and optimizing pathfinding to ensure systems remain fast and scalable under real-world loads.
 
-**Impact:** Creating fast, reliable systems that handle real workloads.
+**Impact**: Building high-performance software with optimized resource management.
 
-### 💎 Crypto & Finance
-Exploring decentralized systems, DeFi protocols, and blockchain technologies. Investment strategy and entrepreneurial thinking drive my long-term vision.
+### 📈 Finance & Strategy
+I actively follow decentralized finance (DeFi) and blockchain technologies. This interest in market mechanics and entrepreneurial strategy helps me maintain a long-term vision for both my projects and my professional growth.
 
-**Impact:** Building the financial infrastructure of the future.
+**Impact**: Understanding the intersection of technology and financial infrastructure.
+
+### 💪 Training & Discipline
+Outside of coding, I am committed to high-intensity physical training. I practice Street Workout and weightlifting daily, which has built a strong foundation of discipline, consistency, and goal-setting that I apply directly to my engineering work. I also maintain a rigorous approach to nutrition to optimize performance and recovery.
+
+**Impact**: Mental clarity and the grit to tackle complex, long-term technical challenges.
 
 </details>
 
