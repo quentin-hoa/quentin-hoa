@@ -25,7 +25,7 @@ Based in **Madrid** for over a decade, I’ve grown up at the intersection of Eu
 ---
 
 ### 🚀 Seeking an Internship
-I am currently looking for an **internship opportunity** where I can apply my methodology, my speed of execution with AI tools, and my passion for system design. If you're looking for a disciplined developer who learns fast and delivers clean results, let's connect!
+I am currently looking for an **internship opportunity** where I can apply my methodology, my speed of execution with AI tools, and my passion for system design. If you're looking for a disciplined developer who learns fast and delivers clean results, let's connect !
 
 ---
 
