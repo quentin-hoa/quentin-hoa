@@ -135,17 +135,28 @@ O(N log N) Collision Detection
 
 ## 💻 Technical Foundation
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 | **Languages** | Level |
-|---------------|-------|
+|:---|:---|
 | C | ████████░░ Expert (90%) |
 | Bash/Shell | ███████░░░ Advanced (80%) |
 | Python | ███░░░░░░░ 50% (Data Science) |
 
+   </td>
+   <td width="50%" valign="top">
+
 | **Tools & Systems** | Level |
-|---------------------|-------|
+|:---|:---|
 | Linux/Unix | ████████░░ Advanced (85%) |
 | Git/GitHub | ███████░░░ Strong (75%) |
 | Docker | ████░░░░░░ Basic (50%) |
+
+   </td>
+  </tr>
+</table>
 
 ---
 
