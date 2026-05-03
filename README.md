@@ -15,6 +15,10 @@
 
 ## 📍 About Me
 
+<p align="left">
+  <img src="Epitech_logo.png" alt="Epitech Logo" width="180"/>
+</p>
+
 Based in **Madrid** for over a decade, I’ve grown up at the intersection of European cultures, which shaped my adaptable and independent mindset.
 
 *   🚀 **Learning by Doing (Epitech):** My engineering foundation isn't built on theory, but on execution. From the intensity of the *Pool* to 3-week project sprints, I’ve mastered the art of time management—delivering complex systems without the last-minute crunch, whether working solo or in a team.
