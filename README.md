@@ -258,7 +258,7 @@ Outside of coding, I am committed to high-intensity physical training. I practic
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2500&pause=800&color=00FF41&background=0D0D0D&center=true&width=600&height=50&lines=Code.+Build.+Innovate.;Always+pushing+boundaries." alt="Motivation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=2500&pause=800&color=00FF41&background=0D0D0D&center=true&width=800&height=60&lines=Code.+Build.+Innovate.;Always+pushing+boundaries." alt="Motivation" />
 
 **⭐ If you found something interesting, star the repos!**
 
