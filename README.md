@@ -17,10 +17,10 @@
 
 Based in **Madrid** for over a decade, I’ve grown up at the intersection of European cultures, which shaped my adaptable and independent mindset.
 
-*   **Learning by Doing (Epitech):** My engineering foundation isn't built on theory, but on execution. From the intensity of the *Pool* to 3-week project sprints, I’ve mastered the art of time management—delivering complex systems without the last-minute crunch, whether working solo or in a team.
-*   **The AI Swiss Army Knife:** I see **Claude** as the ultimate developer's tool. I specialize in orchestrating it to handle multi-file refactoring and deep project reviews. By optimizing workflows with `CLAUDE.md`, skills, and hooks, I turn AI into a high-precision execution partner for rapid prototyping.
-*   **Discipline through Training:** My approach to **Street Workout** and nutrition is a core part of my daily routine. It’s not just about the physical results, but about the mental grit and the habit of showing up every day, a discipline I bring directly to my code and my projects.
-*   **Future Vision:** I am driven by the goal of building my own impactful projects and eventually thriving as a freelance entrepreneur. While I value independence, I am eager to learn from established teams and contribute my energy to meaningful technical challenges.
+*   🚀 **Learning by Doing (Epitech):** My engineering foundation isn't built on theory, but on execution. From the intensity of the *Pool* to 3-week project sprints, I’ve mastered the art of time management—delivering complex systems without the last-minute crunch, whether working solo or in a team.
+*   🛠️ **The AI Swiss Army Knife:** I see **Claude** as the ultimate developer's tool. I specialize in orchestrating it to handle multi-file refactoring and deep project reviews. By optimizing workflows with `CLAUDE.md`, skills, and hooks, I turn AI into a high-precision execution partner for rapid prototyping.
+*   💪 **Discipline through Training:** My approach to **Street Workout** and nutrition is a core part of my daily routine. It’s not just about the physical results, but about the mental grit and the habit of showing up every day, a discipline I bring directly to my code and my projects.
+*   🔮 **Future Vision:** I am driven by the goal of building my own impactful projects and eventually thriving as a freelance entrepreneur. While I value independence, I am eager to learn from established teams and contribute my energy to meaningful technical challenges.
 
 ---
 
