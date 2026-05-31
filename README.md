@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF41&background=0D0D0D&center=true&width=800&height=60&lines=Building+efficient+systems;Mastering+AI+orchestration;Creating+the+future" alt="Typing SVG" />
 
+<p align="center">
+  <a href="https://quentinhoarau.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20Explore%20My%20Portfolio-121212?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 📅 Activity Heatmap (half year)
