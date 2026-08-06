@@ -1,273 +1,128 @@
 <div align="center">
 
-# 🚀 QUENTIN HOARAU
+# QUENTIN HOARAU
 
-**Next-Gen Software Engineer | AI Systems | Emerging Tech Enthusiast**
+**Software Engineer — C / Systems / AI Tooling**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF41&background=0D0D0D&center=true&width=800&height=60&lines=Building+efficient+systems;Mastering+AI+orchestration;Creating+the+future" alt="Typing SVG" />
+![C](https://img.shields.io/badge/C-Expert-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude%20AI-Advanced-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-<p align="center">
-  <a href="https://quentinhoarau.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20Explore%20My%20Portfolio-121212?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[Portfolio](https://quentinhoarau.com) &nbsp;·&nbsp; [Email](mailto:quentin.hoarau193@gmail.com) &nbsp;·&nbsp; Madrid, Spain
 
----
+</div>
 
-## 📅 Activity Heatmap (half year)
+<br>
+
+<div align="center">
+
+### Activity
+
 ![Calendar](./metrics.isocalendar.halfyear.svg)
 
 </div>
 
-## 📍 About Me
+<br>
 
-<p align="left">
-  <img src="Epitech_logo.png" alt="Epitech Logo" width="180"/>
-</p>
-
-Based in **Madrid** for over a decade, I’ve grown up at the intersection of European cultures, which shaped my adaptable and independent mindset.
-
-*   🚀 **Learning by Doing (Epitech):** My engineering foundation isn't built on theory, but on execution. From the intensity of the *Pool* to 3-week project sprints, I’ve mastered the art of time management—delivering complex systems without the last-minute crunch, whether working solo or in a team.
-*   🛠️ **The AI Swiss Army Knife:** I see **Claude** as the ultimate developer's tool. I specialize in orchestrating it to handle multi-file refactoring and deep project reviews. By optimizing workflows with `CLAUDE.md`, skills, and hooks, I turn AI into a high-precision execution partner for rapid prototyping.
-*   💪 **Discipline through Training:** My approach to **Street Workout** and nutrition is a core part of my daily routine. It’s not just about the physical results, but about the mental grit and the habit of showing up every day, a discipline I bring directly to my code and my projects.
-*   🔮 **Future Vision:** I am driven by the goal of building my own impactful projects and eventually thriving as a freelance entrepreneur. While I value independence, I am eager to learn from established teams and contribute my energy to meaningful technical challenges.
-
----
-
-### 🚀 Seeking an Internship
-I am currently looking for an **internship opportunity** where I can apply my methodology, my speed of execution with AI tools, and my passion for system design. If you're looking for a disciplined developer who learns fast and delivers clean results, let's connect !
-
----
-
-## 🏆 Featured Projects
-
-<details>
-<summary><b>📦 Click to expand projects</b></summary>
-
----
-
-### 🎮 A-maze-d
-**Multi-Robot Pathfinding Engine**
-
-```
-Reverse BFS → Distance Computation
-     ↓
-Multi-Path Extraction
-     ↓
-Optimal Robot Assignment
-     ↓
-Collision-Free Movement
-```
-
-- ✅ Reverse BFS from END room for O(R+T) distance computation
-- ✅ Non-overlapping shortest path extraction
-- ✅ Cost-based robot distribution (minimize total traversal time)
-- ✅ Turn-by-turn collision prevention
-
-**Stack:** C | Graph Theory | Pathfinding Algorithms
-
----
-
-### 📊 BSQ
-**High-Performance Dynamic Programming**
-
-```
-Input Grid
-     ↓
-DP Tabulation: min(top, left, diag) + 1
-     ↓
-Track Maximum Square
-     ↓
-Mark & Output (10K×10K @ milliseconds)
-```
-
-- ✅ Single-pass DP tabulation O(N)
-- ✅ Processes massive grids efficiently
-- ✅ Handles 10,000×10,000 grids in real-time
-- ✅ Obstacle avoidance with dynamic thresholds
-
-**Stack:** C | Performance Optimization | Algorithms
-
----
-
-### 🖥️ Minishell
-**Unix Shell with Operator Precedence**
-
-```
-Command String
-     ↓
-Parse Operators (Right-Associative)
-     ↓
-Build Binary Tree (Precedence Hierarchy)
-     ↓
-Recursive Execution Engine
-     ↓
-Fork/Pipe/Redirection Management
-```
-
-- ✅ Right-associative parsing of operators
-- ✅ Operator precedence via binary tree structure
-- ✅ Full pipe & redirection support (>, >>, <, <<)
-- ✅ Process management & IPC handling
-- ✅ Environment variable management (cd, setenv, unsetenv, env, exit)
-
-**Stack:** C | Systems Programming | Process Management | IPC
-
----
-
-### 🛩️ My Radar
-**Air Traffic Control Simulator with Spatial Indexing**
-
-```
-1000 Planes
-     ↓
-Quadtree Spatial Partitioning
-     ↓
-Adaptive Depth (Subdivide when needed)
-     ↓
-O(N log N) Collision Detection
-     ↓
-60 FPS CSFML Real-Time Rendering
-```
-
-- ✅ Adaptive quadtree indexing for collision detection
-- ✅ Efficient spatial optimization (50-100x performance gain)
-- ✅ Real-time CSFML graphics at 60 FPS
-- ✅ Tower protection zones (circular collision immunity)
-- ✅ Storm system with Fortnite-style mechanics
-- ✅ Fortnite-themed sprites (Battle Bus, Big Ben towers, island map)
-
-**Stack:** C | Graphics Programming | Spatial Algorithms | Real-Time Systems
-
-</details>
-
----
-
-## 💻 Technical Foundation
+## Stack
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td valign="top" width="50%">
 
-| **Languages** | Level |
-|:---|:---|
-| C | ████████░░ Expert (90%) |
-| Bash/Shell | ███████░░░ Advanced (80%) |
-| Python | ███░░░░░░░ 50% (Data Science) |
+**Languages**
 
-   </td>
-   <td width="50%" valign="top">
+| | Level |
+|---|---|
+| C | Expert |
+| Bash / Shell | Advanced |
+| Python | Intermediate |
 
-| **Tools & Systems** | Level |
-|:---|:---|
-| Linux/Unix | ████████░░ Advanced (85%) |
-| Git/GitHub | ███████░░░ Strong (75%) |
-| Docker | ████░░░░░░ Basic (50%) |
+</td>
+<td valign="top" width="50%">
 
-   </td>
-  </tr>
+**Tools**
+
+| | Level |
+|---|---|
+| Linux/Unix | Advanced |
+| Git/GitHub | Strong |
+| Docker | Basic |
+| Claude (agentic workflows, `CLAUDE.md`, sub-agents, tool orchestration) | Advanced |
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## 🤖 AI Mastery & Tooling
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) <img src="https://raw.githubusercontent.com/quentin-hoa/quentin-hoa/main/NotebookLM_logo.svg.png" alt="NotebookLM" height="30" style="vertical-align:middle">
+## Personal Projects
 
-<details>
-<summary><b>Click to expand AI competencies</b></summary>
+<table>
+<tr>
+<td width="110" valign="top">
+<img src="logo_onbars.png" alt="Onbars logo" width="90"/>
+</td>
+<td valign="top">
 
-### Claude AI
-**Advanced Prompt Engineering & Agentic Systems**
+### [Onbars](https://onbars.app)
+*Mobile app for calisthenics / street workout*
 
-- Building reliable logic chains and adaptive prompts
-- Agentic workflows & tool orchestration  
-- CLAUDE.md systems & documentation frameworks
-- Sub-agent design & task delegation patterns
-- Autonomous workflow automation
-- Context optimization & token efficiency
+Routine tracking, live workout mode with rest/timer telemetry, interactive park map, community challenges, peer-voted skill badges, and an AI-generated weekly performance report — stats are always computed deterministically in code, the AI only writes the narrative.
 
-### Google Gemini
-**Creative AI & Automation**
+`React Native (Expo, TypeScript)` `Expo Router` `Zustand` `FastAPI` `Prisma → PostgreSQL (Supabase)` `Groq (llama-3.3-70b-versatile)` `Supabase Storage`
 
-- Project review presentation generation (turn complex data into engaging slides)
-- Image generation for visual concepts & mockups
-- Rapid prototyping & design iteration
-- Multi-modal content creation
+</td>
+</tr>
+</table>
 
-### NotebookLM
-**Knowledge Synthesis & Personal Podcast Production**
+### [whatsapp-bot](https://github.com/quentin-hoa/whatsApp-bot)
+*Always-on WhatsApp bot running on a Raspberry Pi*
 
-- Research summarization & deep content analysis
-- Creating custom podcast series (multi-episode narratives)
-- Document-to-audio transformation
-- Building personal knowledge bases with audio
+Started as a Claude Code usage watchdog (polls the OAuth usage API every 5 minutes, alerts on session/weekly limits), grew into a personal notification hub: on-demand crypto commands (CoinMarketCap), a daily AI-generated market brief, a session pre-warm trigger, and a generic HTTP endpoint other Pi scripts can push notifications through. Runs as a `systemd` service with a persistent retry queue and quiet hours.
 
----
-</details>
+`Node.js` `whatsapp-web.js (Puppeteer)` `Claude OAuth API` `CoinMarketCap API` `systemd` `cron`
 
-## 🚀 What Drives Me
+<br>
 
-<details>
-<summary><b>Click to expand interests</b></summary>
+## School Projects — Epitech
 
----
+### [A-maze-d](https://github.com/EpitechPGE1-2025/G-CPE-200-BAR-2-1-amazed-8)
+*Multi-robot pathfinding engine*
 
-### 🛠️ Technical Workflow
-I use advanced prompting and structured workflows to accelerate development and problem-solving. By integrating tools like Claude into my process, I focus on building reliable systems and automating repetitive tasks to maintain high productivity.
+Reverse BFS from the END room for O(R+T) distance computation, non-overlapping shortest-path extraction, cost-based robot assignment, collision-free turn-by-turn movement.
 
-**Impact**: Faster iteration cycles and more robust code logic.
+`C` `Graph theory` `Pathfinding`
 
-### 💻 System Engineering
-I enjoy solving performance challenges through efficient algorithms and data structures. My work involves implementing spatial indexing like Quadtrees and optimizing pathfinding to ensure systems remain fast and scalable under real-world loads.
+### [BSQ](https://github.com/quentin-hoa/BSQ)
+*High-performance dynamic programming*
 
-**Impact**: Building high-performance software with optimized resource management.
+Single-pass DP tabulation (`min(top, left, diag) + 1`), tracks the maximum square while scanning, handles 10,000×10,000 grids in milliseconds.
 
-### 📈 Finance & Strategy
-I actively follow decentralized finance (DeFi) and blockchain technologies. This interest in market mechanics and entrepreneurial strategy helps me maintain a long-term vision for both my projects and my professional growth.
+`C` `Dynamic programming` `Performance optimization`
 
-**Impact**: Understanding the intersection of technology and financial infrastructure.
+### [Minishell](https://github.com/quentin-hoa/minishell_2_perso)
+*Unix shell with operator precedence*
 
-### 💪 Training & Discipline
-Outside of coding, I am committed to high-intensity physical training. I practice Street Workout and weightlifting daily, which has built a strong foundation of discipline, consistency, and goal-setting that I apply directly to my engineering work. I also maintain a rigorous approach to nutrition to optimize performance and recovery.
+Right-associative operator parsing into a precedence binary tree, full pipe/redirection support (`>`, `>>`, `<`, `<<`), fork/pipe/IPC process management, env builtins (`cd`, `setenv`, `unsetenv`, `env`, `exit`).
 
-**Impact**: Mental clarity and the grit to tackle complex, long-term technical challenges.
+`C` `Systems programming` `IPC`
 
-</details>
+### [My Radar](https://github.com/EpitechPGE1-2025/G-MUL-100-BAR-1-1-myradar-5)
+*Air traffic control simulator*
 
----
+Adaptive quadtree spatial partitioning for O(N log N) collision detection across 1000 planes, 60 FPS CSFML real-time rendering, tower protection zones.
 
-## 📈 Achievements Unlocked
+`C` `Spatial algorithms` `CSFML`
 
-| Achievement | Details |
-|-------------|---------|
-| ⚙️ **Algorithm Mastery** | Optimized pathfinding using DP tabulation and Quadtree indexing to reduce computational complexity in real-time environments. |
-| 🤖 **AI Expertise** | Advanced prompt engineering, agentic workflows, system orchestration at scale with Claude, Gemini, & NotebookLM. |
-| 🎮 **Real-Time Graphics** | CSFML rendering, 60 FPS performance, spatial data structures for collision detection. |
-| 📊 **Performance Optimization** | 10K×10K grids in milliseconds, 1000+ entities real-time, O(N log N) algorithms. |
-| 🌍 **Polyglot Communication** | French (native) • Spanish (10 years) • English (fluent) • Technical writing |
-
----
-
-## 🔗 Open To
-
-- **Collaborations** on AI/systems projects
-- **Technical discussions** about Claude, Gemini, algorithms & emerging tech
-- **Startup ideas** in crypto/DeFi/AI space
-- **Mentorship** opportunities & code reviews
-- **Architecture discussions** & design patterns
-
-**Contact:** [quentin.hoarau193@gmail.com](mailto:quentin.hoarau193@gmail.com)
-
-**Let's build something extraordinary together! 🚀**
+<br>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=2500&pause=800&color=00FF41&background=0D0D0D&center=true&width=800&height=60&lines=Code.+Build.+Innovate.;Always+pushing+boundaries." alt="Motivation" />
-
-**⭐ If you found something interesting, star the repos!**
-
-📍 Madrid, Spain 🇪🇸 | 🎯 Epitech Engineering | 🚀 Building the Future
+**Contact:** [quentin.hoarau193@gmail.com](mailto:quentin.hoarau193@gmail.com)
 
 </div>
