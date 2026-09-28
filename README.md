@@ -127,6 +127,6 @@ Started as a **Claude Code usage watchdog** (polls the OAuth usage API every 5 m
 
 <div align="center">
 
-**Contact:** [quentin.hoarau193@gmail.com](mailto:quentin.hoarau193@gmail.com)
+**Contact:** [contact@quentinhoarau.com](mailto:contact@quentinhoarau.com)
 
 </div>
